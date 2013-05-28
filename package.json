@@ -1,0 +1,22 @@
+{
+  "name": "fuzzymatch",
+  "version": "0.4.0",
+  "description": "Yet another string fuzzy matcher",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "KidkArolis/fuzzymatch.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.10.0",
+    "chai": "~1.6.0"
+  }
+}

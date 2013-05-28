@@ -1,0 +1,6 @@
+{
+  "name": "fuzzymatch",
+  "version": "0.4.0",
+  "main": "fuzzymatch.js",
+  "ignore": ["./!(fuzzymatch.js|bower.json)"]
+}
